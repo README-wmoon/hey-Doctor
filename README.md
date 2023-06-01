@@ -12,11 +12,10 @@
 
 
 <h2>2. 기대 효과</h2>
-<img src="https://lh3.googleusercontent.com/fife/APg5EOY8ytbtjdN1tbnB5pHjTfm-uf_IIIsEsvW3XJlZD8gmJ440-myM9IDsULAMHTNSqNE9IJWkhp305wNpXDpzr4i9wMjeOS8jy5N8egZ9mN0fjf6Plk7-wge9WiBTdnhSpOehogr7iLpm9rIkQcHVyA5w5b_Tl7MxJKj_aOwL6JSgOxX0HU-26tPzlFTV9bvyD5YIJG7SFb-_m1WqUrHBv-8VzZrtcOUcnVA3JMR-ljh0eosDFtfgXIGjAaFyyvggFojzndTXsaTPO9fAjAO4Wy2DTIArkV9KjPnfcKwfSWIsVjZSb63j7A9D3EcFQ2jiQ3str7rb-lPjrcr1vELl0OOPnu6HpOKgPlgT9UnMX_nsINQWDq1HIxszYcWgOj63NVeE6rpAz4O5oENgy2Ef2Gm7Q8uAA33YEz3JZc91LdxdfgTwSPzlcRFutddYPhmgrQnngzpQAq4Ij6wnECHikv1_Wtcc3ltz2zm8hMpl6qY-tqba_Lj2E1HpfnRN_EQp3RylVHwmXFTn61mIk77dM52gSZvQqFjyoAVciDYJ8FRjh9yM7IC3DIf6KVK8kyqLu7R94-dT-NqUbOk6PT7AQsrP3TrbBy0slOih1w9R52Bgwrj82O4uJO0WhGQhGUsFgzq8l5ocDg0u69knDHSRHCJZKCT-mD8P9iu3t5tnn14M3XnW3Mipan6L4A5tFyLm9um8F2vJWFIE4fedq9O3f0X4nf6XTgWXazEbIXsPAigY2Q4NapguAIZRgBzmq4TSwAQcYFQpldzZtoqVf0Ht9Q-5ojeK21xJYA02xdTPPmPZeegDXKboqqCSkPV-oaYqrTfSKnhKli8HbSnZk0XtP751B6ymLrR94agMD_mwSU-DHJYOXqSPeRXXMJpPpYa4_pJR_TAeQh-OGqlC7DFDodLt0quXb5bfbokHW9y4VJvPdxG2Ur6UeWhGW72N-nF5WwfoBSipy5qCa-xG7V46qVznaPp3Q18RDauIubRoLqVv-DMPPI9r92TIsd_ytFzbsKYDdQ5iDr5ktQQfc8zPqzMXDx87fAFfZu1tMJOS_8BKy_MsSBEbLjhIBLCCWVtSvmGJ-MU8RJIz7PPWtPwasqQdl74EzvvinXEf07t98xKaBkX1xWITbZCxoGADwHAnq_ChECujA_dchHReQ-sYZfdCsys4OMuHhzEM5ucJWUx3ZzQjXam9KUjcrB4D0iW1zr0F3Y4ZUGfUSHRTC2CcDBnVeX9N2H1phOIAVIfCi7F4N9vG3V5jrv_iSGIsz0U50s3hgkrrb5SM7XcJba2A3rCyooqQHGlZUn735GHbQUeHuySOmtD0Rdox67kraQZiuJvIf9Dij6HM94DoJXSY_eC1TLOtOpxQHGzRBG243jxdVNZd-5EE4q4jhxWI7eUWZdOezqpwghhM_mv5OmGQeqeHF1RWqK_OHuCOyvBnYoewMPLg6x_lk1YbKqsPQayfhJcpJqi6p6FSZWeYOgD1B4MkUs0XCY3jiWCxf1kXRH_oMskwmQF7kihyVOlq=w1920-h892" style = "width: 80%; height : 480">
-STEP 1. 베테랑 연수자와 초보 연수자가 원하는 날짜와 지역을 선택할 수 있게 하여 시간과 장소에 구애받지 않도록 한다. 따라서 바쁜 현대인들도 정해진 스케줄이 아니라 맞춤형 검색 시스템을 이용하여 사용자들의 편의를 제공한다.<br>
-STEP 2. 코스별로 금액을 지정하여 사용자간 금전거래가 이루어진다. 이를 통하여 연수의 선순환을 창출하고 회원간 연수를 독려한다.<br>
-STEP 3. 운전연수의 접근성을 용이하게 하여 초보운전자들의 운전경험이 많아진다면 결국 운전미숙으로 일어나는 사고는 감소하게 될 것이다. <br><br>
-교차로 프로젝트는 초보자들의 운전연수 경험을 통해 실력을 향상시킴으로서 최종적으로는 교통사고율을 감소시킬 수 있도록 기획하였다. <br>
+<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/cb87f898-46af-4473-9d7c-890ba23cd701" style = "width: 80%; height : 480"><br>
+STEP 1. 지방 병원은 병원의 밀집도가 낮기 떄문에 환자들이 병원을 찾기 힘듬<br>
+STEP 2. 환자들이 진료를 보기위해서 시간이 불필요하게 많이 소요될 때가 많음<br>
+비대면 사전 진료 서비스 프로젝트는 환자들이 멀리 있는 병원을 가는 시간을 낮추기 위해서 쓰인다. 최종적으로는 환자들이 가는 시간을 감소시킬 수 있도록 기획하였다. <br>
 
 
 <h2>3. 프로젝트 사용 툴</h2>
@@ -40,66 +39,43 @@ STEP 3. 운전연수의 접근성을 용이하게 하여 초보운전자들의 �
 - Google Cloud Vision API<br>
 
 <h2>4. ERD</h2>
-<img src="https://lh3.googleusercontent.com/fife/APg5EOZn5xKCrWyBGnAO6Kjx01bUERgnejSENdskzzjHLHZ7qUs14orSZ4Wz1OWtaJXEYj0M80hkwgrPyjyDZOcbKSpMpCrkEXMhi4x5Y5v-u1N1kDPtbV1R5a3_g0kNYdZXqz4e_dBUfe3pRFrlhBAoXIzfakGVh0Y8d9ace1GnHW6CLgYpN3Q-5JwSwVqnjoARfLbclra2nDZhBdBsynQ5mg_oEH9_yMvMX4h0YSbKLxd4YGmF99y59rsywet4KnqO7GEjd-Hi1FSFfHwbTrGWuc_VfoaimRvzs3iF_fpuqS5kOHCGniTIVCJea9y5ugCx4uU0i6ZGIPXeLZTvMFIdyz6mDON3Z03rNjI4n0Hc7FDMLkTSMkVRvbGUtgd1R_-mVj73_DVdbwjx6Ihu13-3EXCz_3n7kYHYgDrgcIKODVEeoSFPveMoaskDRbebJN0HpoF8HKO5f2CjdOMvotoF8ZQf4MDvrBQILWR76FuG8b1hcExzo1ampC-NaCfI1_fgcHJyxkCC212_QKIOqA8ym-31rHGjGKjBGl8qdbeg0LV4Dg_yvpz3NTPFgWcCt7s_LprbPdxQEoP4vDeJvj3qrhuW6AD4e5lI3WXqjZEzMKgDmQOyttVI_4YwRw-gK9Oq04niyoLA71yYKZhKKMqWBc31VBriwH_ti3Ki7Q774PmptzMjR-YJP7JtnpiimA0Hx021O9M5ECCzYtNRsJY8CMoCMPnka-h-Vzwl63EMufAEzDmDWcsSbqRiq8JwZNsSqujdNmGG12vK3yxgTuV2p9y8dC0Uh5uKeG4TQlgm0Z2GoT8ZvIvK2M4dHfpvvLqAEsz2JuzWNvzR9wXFDuaj4vNaG9R8O94mv503Ul8iHw6rPss4Bq-h1Nwo__SxriXxnuRBGpqF1HgxCYz-KLOG3h_GeQ-NYEb2eMifcvEzl5Gc1b47xf-tYnt0qHlug_KCUJE6RHRTzEJGmPqqDmn8JxYsXq6wz-vT0E63bsvj0n-OICQfXVjrh1u61pjbbRp0R-hyICayJl27dKL_GNuAHRatPsraep70-1q9f2iYN69bhBI_3emh0zfN3-ZnS_bynqHa9_9jz7QMO4Vju4yKh-OJZdqJoIkfixRwRqkguWy6g3a2haurb6y1x1FuQletWA6aOf__hmhPKgSDK8L-uH_FedavZ1XcPlA9oiqnZSYuVTAR1xhdYV5yXIkLXGo5nhhpvPZClCfX5S4ybcthVhZ3RllZNELwta-fj6t7-ymz0Ozq3jc9CIv0O4wkauScLMcKb10fb8_Sdm_wS3c6abxmmYzzizIeQyh4nm4jdyGLFH10cL6jLA0t-3sqSORIPKWfviyVEesXbR2JHPTxOI2TuevDzhGcZblAaszMKrCrxlbDz4XA23rgAryHsqq1S9bEYkGaVYph1KOTq1P9aymnOMrJOXoDJygmEkVJDkr52OJ4hzHPStvyYocWCqgSJXPjJQVuVUeEum5MgFB5bP4zHIk9Q2VfN2hqXsu9KxSwnhbP-N4mlo6l8sts=w1920-h929"  style = "width: 80%; height : 480">
+<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/37c091ea-7606-4045-9afc-f9bc74c48964"  style = "width: 80%; height : 480">
 
   
 <h2>5. 담당 업무</h2>
 5-1 프론트엔드<br>
-<img src="https://lh3.googleusercontent.com/fife/APg5EOYxNYHTDUowAoBF_lySeXMALleA2wBGa1cOOuS0EMmy3xj7jhGU4E04cOKCdf018-CvUoX4WUJK1uv4iTiGox_qJktWonBkUl1j8NIL7pMtP6nH8qkxvT7Kf871sK8eCITjOtg0All6vT4NDP--M7-jaQHSu1vzhnjoNGyzHqZ3n3NX0nBE_kLVuic2e4ML6R6gTJ8m9pCYpEyZFqA6KtKM04At04gmGMuVr1qo6xyp71eklgc3Yjn6bhXa66JogKwrubcYRiZ-jz9gNd03PNGsOg1KZownjWMu0976z1bJzudMwuSnfNXxhC74hoZbtjG1AnQBl-C51XpZvB2aOtP55PPfaSahfZnXfyg69TF0IHBJvtBr4tsWpaNyq_6YvDhqjVq-EQh5O8tKxrBLr0iIqWm1_d7AFIUqkp2qZr-83oW1hP4mZXlphcn0ywXiXZ-l_OJiobyOZ_jqM3mOVfeEu_-GMTpod7ahUgO8EGSbEl6ElQDBnPxJ6qwguL8wLOC5eM23ps5K2BLd8CeHbNX9XLPgMDRzTKAH11r52JXy8eI6_hr-ATGaMVqNfHlPmeT-ipyvrZIAvQaqgmAqeC348229FcASXFXj_MjhowVqCu83eO7lDVrFVlT22Na5Ray3dBG6LMyylwkYbMsqAIzpunggHbD92qoVYH5hBp-qP8BQjNoxp2lEKX6SdFIpzeghjnyooo4poUxNZ5y2-gMRbMG82ClmN8fmdgImW1LHUj9F7FYOtnUy5gYkDbyIOcFvc7jvWXPW1uFOVrCMv8k-ygTH1xpIOnOUy1UkXBI5x5QLK3Skp7l50iVSYa5LelzQ2Hicj13DZ38pppp9P3SrtbpL6JnvM1Ydab1OjMx43ZkktnnCq_62fQyQHOmwt5KxlsGFNx-JZSmXd1Ns2Ky2IwxCm--9bY0ig7osCF1DW0TUMvBdRCnL6udj-UbYb0dq60PzsTIInuJi5_l2xxmwZAQZiXu-W6gaFm7c44HwDfEFyLzcgZm8CUbr9XzA_FnQGuHQdxoVLUjM3_9aoM8pGIGqfsV3DkO5saV6QssdvIVbRg3A1hmWXE5B2VSpCwwPjXDfo_Db8mhxNT_LIGihbXcTVJ-yZORAGD7XdFebbjkfCvd_wirPzXxH6CP4PrEojnFFtjzOI9QI1Hnev93qBkFSghQ5MGz33So_lSrQQgPaidigzjZRjAkKOWclW0Mpe8uYlUiN02VcP_gaDpfktCdbXvPTbCZEWYFsfSPjpU7SiL38of9uaEiEGI26JP_bfg4O3SroEYxJ2sAzpXXVn1gaOriIYX2qX0-WFm58eKEIJc_mHD7H3e2ILX8uXTU4qzSSUgT3Lis057pdulnYp1H7-1B10lg9pRGS24a2wMoLl2-y887RGWAdu-Z-_HCHGoDuaQ1iIxPzNNGdLL1zWbZv54YvPqposf5SKzRr1v2KEyea-efY40PYPglOXTGiFJzWwslC1sBmfR91gceQR40C3tWbKVBxJFySVhN2jrxW5zfF1r33qUGY=w1920-h892" style = "width: 90%;">
+<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/0df87008-c562-409e-b253-2b1fca54c3e3" style = "width: 90%;">
 
-▶ 회원정보 확인 및 수정
-- 연수 내역
-- 나의 후기
-- 포인트 조회
-- 내가 쓴 게시글
-- 내가 쓴 댓글
+▶ 로그인
+- 다른 방법으로 시작하는 법
+- 로그인 모달창
 
-▶ 비밀번호 변경
+▶ 회원가입
 - 이메일 등록
 - 이메일 발송 완료
 - 비밀번호 변경
 
-▶ 회원 탈퇴
-- 비밀번호 인증
-- 탈퇴 약관 동의
+▶ 이력서 확인 및 수정
+- 이력 관리 내역
+- 나의 후기
+- 이력서 조회
+- 내가 쓴 이력서
 
 ▶ 오류페이지
 - 404 오류(웹)
-- 404 오류(모바일)
-- 자유게시판 준비중 
+- 404 오류(모바일) 
 
 <br>
 5-2 백엔드<br>
-<img src="https://lh3.googleusercontent.com/fife/APg5EObvLBxUpxUuoAQxMdFfOwbTSEI0CVJ9v00be8DDKu76tIIG-tFMj16Qp7lFGGX6JpPpCiElLoWU6zPzdiGfFQTO4U-6pl7CaqL5H6w-J8vf-WEH1H6ZrT8sFD0YAdOEA0wYbl0-vQB_kH-9LDukqoSV_JSbB4K71372HHBdRrpkTE9D7q6KpxsasIjsm3y5DtTj-7nPhQkX5Ewwkp3V3sbk-9cLHDW9G9VZCF-4UMwGgBE5Ner2ay-kDzbeJ3mHJbZWxbqkXMnEQySsoBjhhuA9u3v4DD0qPYfr4Nj65ZiykfeT9QaewUiiWYVqA_rzgnRTIgacWofRvljlTVJpu8iFqmSle19PM2jEEjPshcLM-UEp4w2NSceE_ko-jA1y1TB6vJ_PYgR21XYN7FCE6JgR34uJUmM8V3SlYSH7GeUPjKonLoA3tMxTFU919vyv9spLz3wduytUeAhIU6qd_dFi5CzU_fiLzHzudS9A10oYkItx2dF0t2qxcMbTSt20tJM2PR__fTu4h9By_0_y_022I5IMhZt2xBpA67sapfHLUqF0q8nh_SRhcR94slUMlFFzcVCUCIzKyz85tPUuAksQMH-GqqXw_-8OnSe0ZiZ4IJlESUoBe9WTcRarBSuPWdxSzOl2qX_9eAiaBg8qeckEayjQBTK_U6NrefvJhs9zJuNas1soUheAj2cPpkSilhsakq16COi2XgcnXU6qT2r7AxEoko0XcNiHL31wfKbGfC9vtvjn3scol3_dYIXKrSMEBkReA4OGnU0hRLpM3xQbICyItL1gamEh2BF46zjxQozluBjpKqZyzr0o3gA0N41GMGXOHx82eLvKR1lO9TmR6AoKiMCSoG5Wfd8i0A2_ZpsA6B97PQ2JgNuHqOaTXjSDbT4mCk4OKnKOnLo1rSq8RdoAuTXIHXS-VGt9pxrZxOLgbiKHjOlpCa4m1wVrN-mujsE39mFptbYcsTOlBeafe_7EK2GMSKfy12p0IH4cWhF05KpjfaTcAflN5SjHZ8JMeQsNVA-8RlYicJGDoTmnTi-D_Md--uvkSgTZnKa7A1jk-mOr87gRJ22mtwGLcjA9p-QkHqpqYaH7PptQDNA3pf3tYGRPykAW0rzYv5JZFw8Bf1SaENDXFjc5RPamCCPtpDKUxk_9xDfXnnfdwiZKztkXytDS80ltm7ujhi1qdKSTkgXBii3RkUQPQklrFfbv4ySIsWPD7N509iygpybIQoeX7ydRJDoXqsIerAETf2YGZWozEqgHZMd4emFVPdkHHgkjVJoX_xwFA7g4LdgKl8Jf0gBZaKJrlpv2qJb0ARJZuXDf_IoYZJgTzdAwB_g0D5rIK6iOOVxM5f9TwSQH66T94TIrfsxLCFDFcwWfm8LmIiSuUYzGn0b95Oo8FQ6Nr_jerCvMCCEanW8qcTjFmpU0U78mDEbms2nIznP2pMYEf26KgiWNeaQ5TUD3zmsSvFhKYVbbWvxWah2Mi-qoTfTUVTSPZ8evwNh_t9tdZLtw4zbRxKXFvz-E=w1920-h892" style = "width: 90%;">
+<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/a18b534b-3e04-4078-b1a0-f14c5f173343" style = "width: 90%;">
 
 
-▶ 회원가입
-- 아이디, 이메일 중복 검사
-- 아이디, 이메일, 이름, 휴대폰 입력 형식 검사
-- 구글 클라우드 비전 API를 통해 운전면허증 하단의 취득일 자동 감지 및 회원구분
-- 필수 정보 입력 여부 검사
-- 조건 충족 시 회원가입
-- 카카오 API를 이용한 간편 회원가입
-- 네이버 API를 이용한 간편 회원가입
+▶ 검색창
+- 환자 전체 질문 목록 리스트
+- 환자 질문 타이틀 검사
 
-▶ 로그인
-- 아이디, 비밀번호 DB 비교 로그인 기능 구현
-- 카카오 API를 이용한 간편 로그인
-- 네이버 API를 이용한 간편 로그인
-- 로그아웃 기능 구현
-
-▶ 비밀번호 찾기
-- 사용자가 입력한 이메일과 DB 비교
-- 정보 일치할 경우 SMTP API 이용하여 비밀번호 변경 링크 발송
-- 비밀번호 변경 구현
-
-▶ 연수신청
--  로그인 여부 확인하여 페이지 이동
-- 이름, 보유 포인트, 휴대폰 번호 조회
-- 보유 포인트 0일 경우 충전하기 페이지 이동
  
-
-
+ 
 <h2>6. 느낀점</h2>
 <h3>6-1. 어려웠던 부분</h3>
 📌MVC 단계를 순차적으로 진행하는 것이 어려웠다. <br>

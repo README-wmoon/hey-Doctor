@@ -4,7 +4,7 @@
 
 
 <h2>1. 기획 의도</h2>
-<img src="https://drive.google.com/file/d/1XK12jUNkT8pYSVBsTV9Pwmd61_PZEHw8/view?usp=drive_link" style = "width: 80%; height : 480">
+<img src="https://drive.google.com/file/d/1XK12jUNkT8pYSVBsTV9Pwmd61_PZEHw8/view?usp=sharing" style = "width: 80%; height : 480">
 
 지방 병원은 대체로 밀집도가 낮아 환자들이 병원을 찾기 힘들다, <strong>따라서 환자들이 멀리있는 병원을</strong>가야된다. 이것은 환자들이 진료를 보기위해서 시간이<strong>불필요하게 많이 소요될 떄가 많다.</strong>그래서 우리는 이런 불피요함을 없애기 위해서 이런 프로젝트를 기획하였다.
 

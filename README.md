@@ -25,7 +25,7 @@ STEP 2. 환자들이 진료를 보기위해서 시간이 불필요하게 많이 
 - jQuery<br>
 - MyBatis<br>
 - Spring Boot<br>
-- MySQL<br>
+- Oracle<br>
 - Visual Studio Code<br>
 - DBeaver<br>
 - Sourcetree<br>
@@ -33,10 +33,6 @@ STEP 2. 환자들이 진료를 보기위해서 시간이 불필요하게 많이 
 - JSON<br>
 - Ajax<br>
 - JDK 11.0.15<br>
-- Naver DEVELOPER API<br>
-- Kakao DEVELOPER API<br>
-- SMTP Gmail API<br>
-- Google Cloud Vision API<br>
 
 <h2>4. ERD</h2>
 <img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/37c091ea-7606-4045-9afc-f9bc74c48964"  style = "width: 80%; height : 480">
